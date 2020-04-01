@@ -25,6 +25,7 @@ public class Config {
 	}
 	
 	public static void init() throws IOException {
+		//hihihihihi
 		if (prop==null) {
 			prop = new java.util.Properties();
 			InputStream in = Config.class.getResourceAsStream(ConfigurationPath);
