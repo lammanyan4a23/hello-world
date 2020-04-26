@@ -37,5 +37,5 @@ public class Config {
 	public static String getProperty(String key) {
 		String value = prop.getProperty(key);
 		return value;
-	}
+	} // com com
 }
