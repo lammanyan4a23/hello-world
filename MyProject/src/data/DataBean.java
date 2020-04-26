@@ -15,5 +15,5 @@ public class DataBean {
 		}
 		public void setCountry(String country) {
 			this.country = country;
-		}
+		} // someone change before you haha
 }
